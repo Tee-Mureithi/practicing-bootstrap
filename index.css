@@ -1,0 +1,7 @@
+/* the media is to maje the input space for email to split by a half */
+
+@media(min-width:768px){
+    .news-input{
+        width: 50%
+    }
+}
